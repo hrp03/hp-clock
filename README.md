@@ -1,3 +1,3 @@
 # hp-clock
 Simple digital clock
-![Screenshot](screenshot.jpg)
+![Screenshot](screenshot.jpg width=50)
