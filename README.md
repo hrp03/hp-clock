@@ -1,3 +1,5 @@
 # hp-clock
 Simple digital clock
-![Screenshot](screenshot.jpg width=50)
+<p align="center">
+  <img src="screenshot.jpg" height="500px" width="300px">
+ </p>
